@@ -1,0 +1,107 @@
+2026-10-22 17:18:44,759 WARNING Utilizador Admin criado. Palavra-passe inicial gravada em /mydisk/LAB_python/NutMetrics/DEV/ADMIN_INITIAL_PASSWORD.txt.
+2026-10-22 17:19:01,392 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:19:25,446 INFO AUDIT user=Admin action=SENHA_ALTERADA detail=o próprio utilizador
+2026-10-22 17:19:53,972 WARNING Falha ao obter certificado de 131.110.6.152:9440: TimeoutError('timed out')
+2026-10-22 17:20:05,338 INFO AUDIT user=Admin action=CLUSTER_CADASTRADO detail=CORNTXPC06 (Prism Central 131.10.6.152:9440) com 1 cluster(s)
+2026-10-22 17:20:43,715 INFO AUDIT user=Admin action=CLUSTER_ACESSO_DIRETO detail=corntxcl0601 -> Prism Element 131.10.6.150:9440
+2026-10-22 17:20:45,713 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:20:53,708 INFO AUDIT user=Admin action=HOST_ABERTO detail=corntxcl0601/corntx0603
+2026-10-22 17:23:49,294 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:25:15,719 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:25:38,161 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:25:38,161 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:25:41,725 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:25:41,725 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:25:57,875 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:25:57,875 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:26:03,825 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVSWPADSP01 - 12.141
+2026-10-22 17:26:03,825 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVSWPADSP01 - 12.141
+2026-10-22 17:26:07,402 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=corntxcl0601
+2026-10-22 17:26:07,402 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=corntxcl0601
+2026-10-22 17:26:18,019 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:26:18,019 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:26:24,948 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVSWPADSP01 - 12.141
+2026-10-22 17:26:24,948 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVSWPADSP01 - 12.141
+2026-10-22 17:26:32,504 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVSWPADSP01 - 12.141
+2026-10-22 17:26:32,504 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVSWPADSP01 - 12.141
+2026-10-22 17:26:36,527 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVMSWFADSP02 - 12.140
+2026-10-22 17:26:36,527 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVMSWFADSP02 - 12.140
+2026-10-22 17:26:53,304 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/1 - Projeto Ifood
+2026-10-22 17:26:53,304 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/1 - Projeto Ifood
+2026-10-22 17:26:55,708 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:26:55,708 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:26:58,171 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:26:58,171 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:27:00,285 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:27:00,285 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:27:14,948 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:27:14,948 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:27:19,963 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVMSWFADSP01 - 12.134
+2026-10-22 17:27:19,963 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVMSWFADSP01 - 12.134
+2026-10-22 17:27:24,248 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - CS - DC1SVSWADCSP01
+2026-10-22 17:27:24,248 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - CS - DC1SVSWADCSP01
+2026-10-22 17:27:37,106 INFO AUDIT user=Admin action=HOST_ABERTO detail=corntxcl0601/corntx0605
+2026-10-22 17:27:37,106 INFO AUDIT user=Admin action=HOST_ABERTO detail=corntxcl0601/corntx0605
+2026-10-22 17:27:40,463 INFO AUDIT user=Admin action=HOST_ABERTO detail=corntxcl0601/corntx0602
+2026-10-22 17:27:40,463 INFO AUDIT user=Admin action=HOST_ABERTO detail=corntxcl0601/corntx0602
+2026-10-22 17:28:48,478 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:28:48,478 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:29:01,431 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:29:01,431 INFO AUDIT user=Admin action=ALERTAS_ABERTOS detail=CORNTXPC06
+2026-10-22 17:29:06,253 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/1 - Projeto Ifood
+2026-10-22 17:29:06,253 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/1 - Projeto Ifood
+2026-10-22 17:29:11,356 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - CS - DC1SVSWADCSP01
+2026-10-22 17:29:11,356 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - CS - DC1SVSWADCSP01
+2026-10-22 17:29:13,676 INFO AUDIT user=Admin action=HOST_ABERTO detail=corntxcl0601/corntx0601
+2026-10-22 17:29:13,676 INFO AUDIT user=Admin action=HOST_ABERTO detail=corntxcl0601/corntx0601
+2026-10-22 17:30:41,791 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:30:41,791 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:35:45,674 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:35:45,674 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:38:23,767 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:38:23,767 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 17:40:50,154 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:40:50,154 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:45:55,765 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:45:55,765 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:46:18,251 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/1 - Projeto Ifood
+2026-10-22 17:46:18,251 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/1 - Projeto Ifood
+2026-10-22 17:50:59,493 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:50:59,493 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:51:58,654 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:51:58,654 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - DC1SVFSWFADSP01 - 12.132
+2026-10-22 17:56:03,610 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 17:56:03,610 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:01:09,396 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:01:09,396 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:06:17,630 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:06:17,630 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:11:21,803 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:11:21,803 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:12:46,411 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:12:50,212 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:15:48,815 INFO AUDIT user=Admin action=VM_ABERTA detail=corntxcl0601/AD - CS - DC1SVSWADCSP01
+2026-10-22 18:17:49,931 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:22:55,833 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:31:03,944 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:31:10,546 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:36:09,054 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:41:14,509 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:44:00,804 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:44:05,735 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:46:35,016 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:49:05,221 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:49:43,255 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:51:10,678 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:52:32,323 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:54:08,794 INFO VMs coletadas (corntxcl0601): 93
+2026-10-22 18:54:56,703 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-22 18:56:41,828 INFO AUDIT user=Admin action=LOGIN_OK detail=
+2026-10-23 09:11:20,888 WARNING Falha na API (131.10.6.152:9440): ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='131.10.6.152', port=9440): Max retries exceeded with url: /api/nutanix/v3/hosts/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='131.10.6.152', port=9440) at 0x7be07c9bac30>, 'Connection to 131.10.6.152 timed out. (connect timeout=20)
+2026-10-23 09:11:20,888 WARNING Falha na API (131.10.6.152:9440): ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='131.10.6.152', port=9440): Max retries exceeded with url: /api/nutanix/v3/hosts/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='131.10.6.152', port=9440) at 0x7be07c9bac30>, 'Connection to 131.10.6.152 timed out. (connect timeout=20)
+2026-10-23 09:11:20,888 WARNING Falha na API (131.10.6.152:9440): ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='131.10.6.152', port=9440): Max retries exceeded with url: /api/nutanix/v3/hosts/list (Caused by ConnectTimeoutError(<HTTPSConnection(host='131.10.6.152', port=9440) at 0x7be07c9bac30>, 'Connection to 131.10.6.152 timed out. (connect timeout=20)
+2026-10-23 09:12:42,630 INFO VMs coletadas (corntxcl0601): 93
+2026-10-23 09:13:55,884 INFO VMs coletadas (corntxcl0601): 93
+2026-10-23 09:14:52,840 INFO VMs coletadas (corntxcl0601): 93
+2026-10-23 09:15:21,453 INFO VMs coletadas (corntxcl0601): 93
+2026-10-23 09:16:12,894 INFO VMs coletadas (corntxcl0601): 93
